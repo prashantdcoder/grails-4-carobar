@@ -101,7 +101,7 @@
 
 <body>
 <div id="login">
-    <h1>Pk bro Login</h1>
+    <h1>Pk Login</h1>
     <div class="inner">
         <div class="fheader"><g:message code='springSecurity.login.header'/></div>
 
